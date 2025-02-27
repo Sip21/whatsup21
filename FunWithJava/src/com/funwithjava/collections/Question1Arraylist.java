@@ -7,7 +7,7 @@ import java.util.List;
 
 import javax.swing.colorchooser.ColorSelectionModel;
 
-public class Question1 {
+public class Question1Arraylist {
 
     public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-package com.funwithjava;
+package com.funwithjava.collections;
 
 import java.util.Iterator;
 import java.util.LinkedList;

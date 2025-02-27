@@ -1,4 +1,4 @@
-package com;
+package com.funwithjava.collections;
 
 import java.util.HashMap;
 import java.util.Set;
