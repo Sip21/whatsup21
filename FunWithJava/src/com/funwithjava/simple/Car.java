@@ -2,7 +2,7 @@ package com.funwithjava.simple;
 
 public class Car {
 
-    String name;
+    private String name;
     String color;
     int year;
     String model;
@@ -24,5 +24,17 @@ public class Car {
     @Override
     public String toString() {
         return ("name of car: " + name + " color: " + color);
+    }
+
+    String getName() {
+        return this.name;
+    }
+
+    String getColor() {
+        return this.color;
+    }
+
+    void setColor(String color) {
+        this.color = color;
     }
 }
