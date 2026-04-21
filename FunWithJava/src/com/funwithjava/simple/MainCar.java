@@ -19,6 +19,10 @@ public class MainCar {
 
         System.out.println(car1);
         System.out.println(car2);
+
+        System.out.println("Private variable: " + car1.getName());
+        car1.setColor("Blue");
+        System.out.println("Private variable: " + car1.getColor());
     }
 
 }
