@@ -1,8 +1,0 @@
-package com.funwithjava.simple;
-
-public class Test {
-    public static void main(String[] args) {
-        System.out.println("Test class added");
-    }
-
-}
